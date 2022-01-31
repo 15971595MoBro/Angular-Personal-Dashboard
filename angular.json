@@ -146,5 +146,8 @@
       }
     }
   },
-  "defaultProject": "personal-dashboard"
+  "defaultProject": "personal-dashboard",
+  "cli": {
+    "analytics": false
+  }
 }
